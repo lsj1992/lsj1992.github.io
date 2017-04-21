@@ -5,7 +5,7 @@
     <entry>
       <title><![CDATA[Hello Lsj]]></title>
       <url>%2F2017%2F04%2F20%2Fnewfile%2F</url>
-      <content type="text"><![CDATA[new text这里是我新建的一个文件，这里可以添加图片，可以天机超链接超链接跳转到百度 保存试试 来一个大标题 小标题来一个 再来一个把 哈哈二级小标题 编辑完成后 要 hexo clean hexo generate hexo deploy 这样就可以啦这里是代码 hexo clean hexo generate hexo deploy]]></content>
+      <content type="text"><![CDATA[new text这里是我新建的一个文件，这里可以添加图片，可以天机超链接超链接跳转到百度 保存试试 来一个大标题 小标题来一个 再来一个把 哈哈二级小标题 编辑完成后 要 hexo clean hexo generate hexo deploy 这样就可以啦这里是代码 hexo clean hexo generate hexo deploy - 代码 - 标题]]></content>
     </entry>
 
     
@@ -19,7 +19,7 @@
     <entry>
       <title><![CDATA[html]]></title>
       <url>%2F2016%2F12%2F22%2Fhtml1%2F</url>
-      <content type="text"></content>
+      <content type="text"><![CDATA[这里是一个新的html页面]]></content>
     </entry>
 
     
